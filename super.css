@@ -38,11 +38,9 @@ BODY{
             color: grey;
             cursor: pointer;
         }
-        li lu{
+        li ul{
             font-size: 2.3vw; 
             font-size: 2.3vh;
-
-
         }
 
         #container2{
